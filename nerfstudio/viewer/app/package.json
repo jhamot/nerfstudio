@@ -12,7 +12,7 @@
     "@mui/system": "^5.10.6",
     "@mui/x-date-pickers": "^5.0.0",
     "@reduxjs/toolkit": "^1.8.3",
-    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^14.2.0",
     "camera-controls": "^1.37.2",
@@ -36,7 +36,7 @@
     "socket.io-client": "^4.5.1",
     "three": "^0.142.0",
     "three-wtm": "^1.0",
-    "websocket": "^1.0.34",
+    "websocket": "^1.0.35",
     "wwobjloader2": "^4.0"
   },
   "scripts": {
