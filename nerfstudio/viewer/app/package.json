@@ -32,7 +32,7 @@
     "react-pro-sidebar": "^0.7.1",
     "react-redux": "^8.0.2",
     "redux": "^4.2.0",
-    "sass": "^1.54.8",
+    "sass": "^1.79.0",
     "socket.io-client": "^4.5.1",
     "three": "^0.142.0",
     "three-wtm": "^1.0",
